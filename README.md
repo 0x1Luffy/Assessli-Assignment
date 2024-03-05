@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/Z6SMvp8/assessli.png" alt="Contact Page Logo" width="200">
+  <img src="https://i.ibb.co/Z6SMvp8/assessli.png" alt="Contact Page Logo" width="100%">
 </div>
 
 # Contact Page to Google Sheets Integration
