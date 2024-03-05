@@ -4,6 +4,14 @@
 
 # Contact Page to Google Sheets Integration
 
+## Stack Used
+
+- HTML, Tailwind CSS, and React for Frontend
+- Zod for input validation
+- Google Sheets for storing the data
+
+You can view the data [here](https://docs.google.com/spreadsheets/d/19QB-KQaUlIR3iCg_Yf6VjAFtKHUhxwQfOjOioeWKo90/edit#gid=0).
+
 ## Overview
 
 This project is a contact page built with React and Vite that allows users to submit their information, which is then stored in a Google Sheets spreadsheet.
